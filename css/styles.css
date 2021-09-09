@@ -11,9 +11,7 @@ Table Of Contents:
 - Details 2
 - Details Lightbox
 - Details 3
-- Statistics
-- Testimonials
-- Pricing
+- Stati
 - Conclusion
 - Footer
 - Copyright
@@ -454,8 +452,8 @@ input[type='checkbox'] {
 }
 
 .navbar .logo-image img {
-    width: 150px;
-	height: 100px;
+    width: 100px;
+	height: 90px;
 }
 
 .navbar .logo-text {
